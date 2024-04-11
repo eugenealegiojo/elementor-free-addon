@@ -1,6 +1,5 @@
-Free components/addons for Elementor. 
+Free components/addons for Elementor.
 
-These addons have a basic features and ready to use.
-If you want a specific and customize features, just DM me and don't forget to bring some coffee ;)
+These addons offer basic features and are ready to use. If you're seeking specific and customized features, just DM me, and don't forget to bring some coffee ;)
 
-If you are a dev, feel free to contribute.
+If you're a developer, feel free to contribute.
