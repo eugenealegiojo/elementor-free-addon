@@ -1,0 +1,15 @@
+{
+  "name": "eugenealegiojo/elementor-free-addon",
+  "description": "Free addons everyone.",
+  "autoload": {
+    "psr-4": {
+      "EA\\ElementorFreeAddon\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Eugene Alegiojo"
+    }
+  ],
+  "require": {}
+}
